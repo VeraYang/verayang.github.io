@@ -1,0 +1,48 @@
+a:visited{
+    color:cornflowerblue;
+}
+body{
+    background-color: #99CC99;  
+    width:800px;
+    margin:auto;
+}
+
+h1{
+ text-align: center;
+ font-family: "Arial Black", Gadget, sans-serif;
+ background-color:#FFF99;
+}
+.first{
+ font-size: 18px;
+ line-height: 1.45;
+ font-family: Arial, Helvetica, sans-serif;  
+ background-color: antiquewhite;
+}
+.second{
+font-size:17px;
+line-height:1.30;
+font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+background-color: #CCFFCC;
+font-weight:680;
+}
+.third{
+font-size:17px;
+line-height:1.30;
+font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+background-color: #CCFFCC;
+font-weight:680;
+}
+.fourth{
+ font-size: 16px;
+    line-height: 1.25;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 550;
+    
+}
+.fifth{
+ font-size: 16px;
+    line-height: 1.25;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 550;
+    
+}
