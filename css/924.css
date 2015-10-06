@@ -25,21 +25,26 @@ nav ul li {
     display:inline;   
 }
 .content{
- width:75%;
+ width:60%;
     float: left;
     
 }
  .content img{
      float:left;
-     margin:0 20px;
+     margin:0 10px;
  }
 .top-content{
- clear:both;height:20px
+ clear:both;
+ height:10px
 }
 
 .description{
-            clear:right;
-            padding:10px 20px 0;
+
+padding-top:10px;
+
+padding-left:400px;
+
+text-align:left;
             
 }
 
@@ -59,7 +64,11 @@ nav ul li {
 }
 
 .section{
-    float:left;
-    width:20%;
-    margin-top:15%;
+float:left;
+
+width:25%;
+
+margin-top:15%;
+
+padding-left:98px;
 }
