@@ -25,7 +25,7 @@ nav ul li {
     display:inline;   
 }
 .content{
-    width:60%;
+ width:75%;
     float: left;
     
 }
@@ -38,11 +38,8 @@ nav ul li {
 }
 
 .description{
-padding-top:10px;
-
-padding-left:400px;
-
-text-align:left;
+            clear:right;
+            padding:10px 20px 0;
             
 }
 
@@ -62,11 +59,7 @@ text-align:left;
 }
 
 .section{
-float:left;
-
-width:85%;
-
-margin-top:15%;
-
-padding-left:100px;
+    float:left;
+    width:20%;
+    margin-top:15%;
 }
