@@ -1,0 +1,37 @@
+body{
+ width:1000px;
+ height:1000px;
+ margin:auto;
+ background-color:#FFCCCC;
+    }
+
+h1{
+text-align: center;
+}
+
+.first{
+font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.25;
+}
+.second{
+font-weight: 700;
+    font-size: 19px;
+    text-align: center;
+    line-height: 1.35;
+}
+.third{
+    font-size: 18px;
+    font-weight: 590;
+    line-height: 1.35;
+}
+.meat{
+font-size: 16px;
+        font-weight: 600;
+}
+table,th,td{
+  border: 1px solid black;
+    background-color: aliceblue;
+    }
+
