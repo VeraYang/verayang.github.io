@@ -2,7 +2,7 @@ body{
  width:1000px;
  height:1000px;
  margin:auto;
- background-color:#FFCCCC;
+ background-color:#FFFFCC;
     }
 
 h1{
@@ -25,7 +25,7 @@ font-weight: 700;
     font-size: 18px;
     font-weight: 590;
     line-height: 1.35;
-    background-color:#FFFFCC;
+    background-color:#FFCCCC;
 }
 .meat{
 font-size: 16px;
