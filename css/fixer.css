@@ -1,0 +1,102 @@
+body {
+    background: #aeaeae;
+    color: white;
+    width:670px;
+    margin:auto;
+
+
+}
+
+.container{
+	color:black;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	line-height: 1.45;
+	font-weight: 600px;
+	
+}
+a{
+	color:#000060;
+}
+
+.u {
+    text-decoration: underline;
+}
+
+.mets {
+    background: orange;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 1.4;
+    font-weight: 580px;
+	color:black;
+	font-size:17px;
+}
+
+.dodgers {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: blue;
+    color:#9fffa6;
+	font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.45;
+    font-weight: 700px;
+	font-size:18px;
+}
+
+.cubs {
+	color:black;
+	padding: 20px;
+    margin-bottom: 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.45;
+    font-weight: 580px;
+	font-size:18px;
+    
+}
+
+.source{
+	color:#6defce;
+	font-size:18px;
+	font-weight: 580px;
+	
+}
+
+.pittsburgh {
+	padding: 20px;
+    margin-bottom: 10px;
+    background: yellow;
+    color:black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.35;
+    font-weight: 580px;
+	font-size:18px;
+}
+
+.cardinals {
+	padding: 20px;
+    margin-bottom: 10px;
+    background: #ff7979;
+	color:black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.35;
+    font-weight: 580px;
+	font-size:18px;
+}
+
+.table-container {
+    background: black;
+	color:white;
+}
+
+table,tr,th,td{
+border: 1px solid white;
+    padding: 10px;
+    border-collapse: collapse;
+    
+}
+
+a:visited{
+	color:black;
+}
